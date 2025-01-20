@@ -13,12 +13,15 @@ Education
 ======
 * B.SSc.in Economics, The Chinese University of Hong Kong, 2026 (expected)
 
+* Spring 2024 : Exchange Student at University of Geneva (6 month)
+* Summer 2024 : Summer School at Fudan University (1 month)
+* Summer 2023 : Visiting Student at Peking University (1.5 month)
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Research Assistant - Department of Economics, CUHK (Supervisor: Professor YANG Xiaohan)
+  * Checked questionnaire data. Used Python and Stata for data cleaning and analysis.
+  * Assisted in literature review about economics studies in innovation and enterpruneurship.
 
 * Summer 2024: Research Assistant - CUHK Business School (Supervisor: Professor ZHOU Yuqing)
   * Checked company ownership. Constructed a matched financial dataset of U.S. publicly listed companies and their global
@@ -35,6 +38,9 @@ cross-border sales in the Philippines market from 7% to 10%.
   * Merchant Operations: Orchestrated seamless collaboration processes with suppliers. Developed and implemented 6 automated
 data analysis and feedback models using Excel, significantly improving cooperation effectiveness.
 
+* Summer 2022: Global Market Intern - Easy Transfer
+  * Market Research: Investigated the distribution of overseas user needs, covering 40% of the freshman population in 8 universities; produced 5 research reports focusing on competitors like Alipay and Flywire.
+  * Community Operations: Analyzed community communication trends, participated in community recruitment and content promotion, and refined user data operations, covering over 350 users with a penetration rate exceeding 90%."
 
 Skills
 ======
