@@ -11,7 +11,6 @@ redirect_from:
 Education
 ======
 * __B.SSc.in Economics, The Chinese University of Hong Kong, 2026 (expected)__
-
 * Spring 2024 : Exchange Student at University of Geneva (6 month)
 * Summer 2024 : Summer School at Fudan University (1 month)
 * Summer 2023 : Visiting Student at Peking University (1.5 month)
