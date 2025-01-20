@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.SSc.in Economics, The Chinese University of Hong Kong, 2026 (expected)
 
 Work experience
 ======
@@ -22,40 +20,33 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Summer 2024: Research Assistant 
+CUHK Business School (Supervisor: Professor ZHOU Yuqing)
+• Checked company ownership. Constructed a matched financial dataset of U.S. publicly listed companies and their global
+subsidiaries in Excel. Used Python and Stata for data cleaning and analysis.
+• Assisted in literature review for the use of accountancy studies.
+• Conducted event study and difference in difference regression and visualization on Stata.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Fall 2023: Business Analysist
+ByteDance-TikTok Shop Philippines
+• Market Research: Conducted market research in Southeast Asia and analyzed gaps in the e-commerce market. Produced 5 data
+analysis reports and provided strategies for operations. Identified and leveraged over 20 valuable opportunities.
+• Strategy Analysis: Participated in 4 successful major e-commerce campaigns and managed 12 weekly operational cycles.
+Continuously updated strategies based on operational achievements, resulting in a notable increase in the penetration rate of
+cross-border sales in the Philippines market from 7% to 10%.
+• Merchant Operations: Orchestrated seamless collaboration processes with suppliers. Developed and implemented 6 automated
+data analysis and feedback models using Excel, significantly improving cooperation effectiveness.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* Arcgis
+* Python
 
-Publications
+Research Project
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
