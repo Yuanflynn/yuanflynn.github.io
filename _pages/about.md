@@ -12,7 +12,8 @@ In Spring 2025, I am a research intern at Shenzhen Institue of Advanced Technolo
 
 **I am applying for PhD program (Entrance in Fall 2026)**
 
-You can find my CV here: [Yifei's Curriculum Vitae](../files/YUAN YIFEI_CV_ENG.pdf).
+You can find my CV here: [Yifei's Curriculum Vitae](../../files/YUAN YIFEI_CV_ENG.pdf).
+files/YUAN YIFEI_CV_ENG.pdf
 
 <!--
 
