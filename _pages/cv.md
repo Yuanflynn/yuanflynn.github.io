@@ -43,7 +43,7 @@ data analysis and feedback models using Excel, significantly improving cooperati
 Skills
 ======
 * Stata
-* Arcgis
+* ArcGis
 * Python
 
 Research Project
@@ -51,7 +51,14 @@ Research Project
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Service and leadership
+Awards & Honors
 ======
-* Currently signed in to 43 different slack teams
+* Full Tuition Scholarship, 2021
+* Asia-Pacific Economic Cooperation Scholarship, 2023
+* HKSAR Government Scholarship (Academic Outstanding), 2023, 2024
+* Dean's List Award, 2023,2024
+* S.H. Ho College Advanced Scholarship, 2023
+* S.H. Ho Foundation Scholarship (Reaching Out), 2024
+* OAL Exchange Scholarship, 2023
