@@ -6,6 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
+我还没想好怎么介绍自己所以先空着
+========
+
+<!--
 Education
 ======
 * __B.SSc.in Economics, The Chinese University of Hong Kong, 2026 (expected)__
@@ -60,3 +64,5 @@ Awards & Honors
 * S.H. Ho College Advanced Scholarship, 2023
 * S.H. Ho Foundation Scholarship (Reaching Out), 2024
 * OAL Exchange Scholarship, 2023
+
+-->
