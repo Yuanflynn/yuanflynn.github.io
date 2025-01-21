@@ -13,8 +13,8 @@ main:
   - title: "Papers"
     url: /publications/
     
-#  - title: "Talks"
- #   url: /talks/    
+  - title: "Research"
+    url: /talks/    
     
   - title: "Readings"
     url: /portfolio/
