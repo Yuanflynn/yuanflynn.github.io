@@ -60,5 +60,6 @@ Awards & Honors
 * HKSAR Government Scholarship (Academic Outstanding), 2023, 2024
 * Dean's List Award, 2023,2024
 * S.H. Ho College Advanced Scholarship, 2023
-* S.H. Ho Foundation Scholarship (Reaching Out), 2024
 * OAL Exchange Scholarship, 2023
+* S.H. Ho Foundation Scholarship, 2024
+* HKSAR Government Scholarship (Reaching Out)，2025
