@@ -62,4 +62,4 @@ Awards & Honors
 * S.H. Ho College Advanced Scholarship, 2023
 * OAL Exchange Scholarship, 2023
 * S.H. Ho Foundation Scholarship, 2024
-* HKSAR Government Scholarship (Reaching Out)，2025
+* HKSAR Government Scholarship (Reaching Out), 2025
