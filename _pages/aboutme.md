@@ -6,63 +6,11 @@ author_profile: true
 
 {% include base_path %}
 
-我还没想好怎么介绍自己所以先空着
-========
+*I carry no nostalgia; where freedom dwells, there lies my home. I claim no single discipline; where curiosity leads, there my mind roams.*
 
-<!--
-Education
-======
-* __B.SSc.in Economics, The Chinese University of Hong Kong, 2026 (expected)__
-* Spring 2024 : Exchange Student at University of Geneva
-* Summer 2024 : Summer School at Fudan University
-* Summer 2023 : Visiting Student at Peking University
+Over the years, I have lived and worked in several cities around the world—from the bustling innovation hubs of Shenzhen to the tranquil academic environs of Geneva. Each stop along the way has granted me unique perspectives on how different cultures approach science, art, and the humanities.
 
-Work experience
-======
-* __Fall 2024: Research Assistant - Department of Economics, CUHK (Supervisor: Professor YANG Xiaohan)__
-  * Checked questionnaire data. Used Python and Stata for data cleaning and analysis.
-  * Assisted in literature review about economics studies in innovation and enterpruneurship.
+With a background that fuses Economics and Computational Social Science, I draw on a rich tapestry of interdisciplinary insights to explore questions at the intersection of Economic Geography. I love connecting ideas across domains, whether it’s bridging technology and literature or finding common ground between social sciences and philosophy.
 
-* __Summer 2024: Research Assistant - CUHK Business School (Supervisor: Professor ZHOU Yuqing)__
-  * Checked company ownership. Constructed a matched financial dataset of U.S. publicly listed companies and their global
-subsidiaries in Excel. Used Python and Stata for data cleaning and analysis.
-  * Assisted in literature review for the use of accountancy studies.
-  * Conducted event study and difference in difference regression and visualization on Stata.
+I welcome collaborations and thought-provoking discussions with like-minded explorers. If you share a similar passion for curiosity, freedom of thought, and boundary-crossing explorations, feel free to reach out or leave a comment.
 
-* __Fall 2023: Business Analysist - ByteDance (TikTok Shop Philippines)__
-  * Market Research: Conducted market research in Southeast Asia and analyzed gaps in the e-commerce market. Produced 5 data
-analysis reports and provided strategies for operations. Identified and leveraged over 20 valuable opportunities.
-  * Strategy Analysis: Participated in 4 successful major e-commerce campaigns and managed 12 weekly operational cycles.
-Continuously updated strategies based on operational achievements, resulting in a notable increase in the penetration rate of
-cross-border sales in the Philippines market from 7% to 10%.
-  * Merchant Operations: Orchestrated seamless collaboration processes with suppliers. Developed and implemented 6 automated
-data analysis and feedback models using Excel, significantly improving cooperation effectiveness.
-
-* __Summer 2022: Global Market Intern - Easy Transfer__
-  * Market Research: Investigated the distribution of overseas user needs, covering 40% of the freshman population in 8 universities; produced 5 research reports focusing on competitors like Alipay and Flywire.
-  * Community Operations: Analyzed community communication trends, participated in community recruitment and content promotion, and refined user data operations, covering over 350 users with a penetration rate exceeding 90%."
-
-Skills
-======
-* Stata
-* ArcGis
-* Python
-
-Research Project
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
-Awards & Honors
-======
-* Full Tuition Scholarship, 2021
-* Asia-Pacific Economic Cooperation Scholarship, 2023
-* HKSAR Government Scholarship (Academic Outstanding), 2023, 2024
-* Dean's List Award, 2023,2024
-* S.H. Ho College Advanced Scholarship, 2023
-* S.H. Ho Foundation Scholarship (Reaching Out), 2024
-* OAL Exchange Scholarship, 2023
-
--->
