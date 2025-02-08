@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-*I carry no nostalgia; where freedom dwells, there lies my home. I claim no single discipline; where curiosity leads, there my mind roams.*
+__*I carry no nostalgia; where freedom dwells, there lies my home. I claim no single discipline; where curiosity leads, there my mind roams.*__
 
 Over the years, I have lived and worked in several cities around the world—from the bustling innovation hubs of Shenzhen to the tranquil academic environs of Geneva. Each stop along the way has granted me unique perspectives on how different cultures approach science, art, and the humanities.
 
