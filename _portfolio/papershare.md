@@ -70,15 +70,17 @@ Hao et al. (2023). Modeling and assessing the robustness of the lithium global t
 ---
 
 **学术讨论**：  
-如何量化贸易政策干预（如出口限制）对级联失效阈值的影响？欢迎同行在评论区探讨模型扩展方向！
+构建锂商品复杂网络，加入时间维度。分析[网络拓扑](https://www.sciencedirect.com/topics/engineering/network-topology)特征、[时间演化](https://www.sciencedirect.com/topics/engineering/temporal-evolution)特征和群落演化，揭示含锂商品的贸易网络结构和竞争格局
 
----
-
-
-讨论：构建锂商品复杂网络，加入时间维度。分析[网络拓扑](https://www.sciencedirect.com/topics/engineering/network-topology)特征、[时间演化](https://www.sciencedirect.com/topics/engineering/temporal-evolution)特征和群落演化，揭示含锂商品的贸易网络结构和竞争格局
-
-回答下列问题：
+新的研究需要回答下列问题：
 
 1. 2010-2024年全球锂商品贸易网络随时间变化如何演变？主要贸易国是否发生变化，变化原因分析。
 2. 贸易网络前10的国家锂矿贸易发展
 3. 贸易网络格局变化特征？贸易网络韧性如何演变，更经得起冲击还是更脆弱？原因分析
+
+相关论文：<br>
+[锂贸易相关的物质流分析框架，分析锂的生命周期和锂的跨国流动](https://pubs.acs.org/doi/10.1021/acs.est.7b06092)<br>
+[基于复杂网络的锂资源贸易群落演化研究](https://doi.org/10.1016/j.physa.2019.123002)<br>
+[全球锂业竞争网络格局演变及影响因素](https://doi.org/10.1016/j.resourpol.2021.102353)<br>
+[锂离子电池关键资源贸易网络特征](https://doi.org/10.1016/j.resourpol.2021.102177)<br>
+[基于物质流的锂交易网络锂资源配置优化](https://www.sciencedirect.com/science/article/pii/S0301420723005330#bib41)
