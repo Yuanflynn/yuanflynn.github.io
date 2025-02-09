@@ -18,10 +18,10 @@ Education
 Work experience
 ======
 * __2025.1 - current: Research Assistant - SIAT, Chinese Academic of Science__
-* __2024.10 - 2024.12: Research Assistant - Department of Economics, CUHK__
-* __2024.7 - 2024.9: Research Assistant - CUHK Business School__
-* __2023.9 - 2023.12: Business Analysist - ByteDance (TikTok Shop Philippines)__
-* __2023.5 - 2023.8: Global Market Intern - Easy Transfer__
+* 2024.10 - 2024.12: Research Assistant - Department of Economics, CUHK
+* 2024.7 - 2024.9: Research Assistant - CUHK Business School
+* 2023.9 - 2023.12: Business Analysist - ByteDance (TikTok Shop Philippines)
+* 2023.5 - 2023.8: Global Market Intern - Easy Transfer
 
 Skills
 ======
