@@ -17,28 +17,11 @@ Education
 
 Work experience
 ======
-* __Fall 2024: Research Assistant - Department of Economics, CUHK (Supervisor: Professor YANG Xiaohan)__
-  * Checked questionnaire data. Used Python and Stata for data cleaning and analysis.
-  * Assisted in literature review about economics studies in innovation and enterpruneurship.
-
-* __Summer 2024: Research Assistant - CUHK Business School (Supervisor: Professor ZHOU Yuqing)__
-  * Checked company ownership. Constructed a matched financial dataset of U.S. publicly listed companies and their global
-subsidiaries in Excel. Used Python and Stata for data cleaning and analysis.
-  * Assisted in literature review for the use of accountancy studies.
-  * Conducted event study and difference in difference regression and visualization on Stata.
-
-* __Fall 2023: Business Analysist - ByteDance (TikTok Shop Philippines)__
-  * Market Research: Conducted market research in Southeast Asia and analyzed gaps in the e-commerce market. Produced 5 data
-analysis reports and provided strategies for operations. Identified and leveraged over 20 valuable opportunities.
-  * Strategy Analysis: Participated in 4 successful major e-commerce campaigns and managed 12 weekly operational cycles.
-Continuously updated strategies based on operational achievements, resulting in a notable increase in the penetration rate of
-cross-border sales in the Philippines market from 7% to 10%.
-  * Merchant Operations: Orchestrated seamless collaboration processes with suppliers. Developed and implemented 6 automated
-data analysis and feedback models using Excel, significantly improving cooperation effectiveness.
-
-* __Summer 2022: Global Market Intern - Easy Transfer__
-  * Market Research: Investigated the distribution of overseas user needs, covering 40% of the freshman population in 8 universities; produced 5 research reports focusing on competitors like Alipay and Flywire.
-  * Community Operations: Analyzed community communication trends, participated in community recruitment and content promotion, and refined user data operations, covering over 350 users with a penetration rate exceeding 90%."
+* __2025.1 - current: Research Assistant - Shenzhen Institue of Advanced Techenology, Chinese Academic of Science__
+* __2024.10 - 2024.12: Research Assistant - Department of Economics, CUHK (Supervisor: Prof. YANG Xiaohan)__
+* __2024.7 - 2024.9: Research Assistant - CUHK Business School (Supervisor: Prof. ZHOU Yuqing)__
+* __2023.9 - 2023.12: Business Analysist - ByteDance (TikTok Shop Philippines)__
+* __2023.5 - 2023.8: Global Market Intern - Easy Transfer__
 
 Skills
 ======
