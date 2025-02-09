@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* __2025.1 - current: Research Assistant - SIAT, Chinese Academic of Science__
+* __2025.1 - current: Research Assistant - SIAT, Chinese Academy of Science__
 * 2024.10 - 2024.12: Research Assistant - Department of Economics, CUHK
 * 2024.7 - 2024.9: Research Assistant - CUHK Business School
 * 2023.9 - 2023.12: Business Analysist - ByteDance (TikTok Shop Philippines)
