@@ -1,6 +1,6 @@
 ---
 title: "多中心城市结构如何影响家庭碳排放？来自家庭调查的证据"
-excerpt: "在全球气候变化的背景下，城市空间结构如何塑造低碳生活方式成为关键议题。近期发表于《Cities》期刊的一项研究《The role of polycentric urban structures in shaping low-carbon lifestyles》，通过中国家庭能源消费数据，揭示了多中心城市建设对家庭碳排放的影响机制及城乡差异，为可持续城市规划提供了重要洞见。。<br/><img src='/images/屏幕截图_10-2-2025_33024_.jpeg'>"
+excerpt: "在全球气候变化的背景下，城市空间结构如何塑造低碳生活方式成为关键议题。近期发表于《Cities》期刊的一项研究《The role of polycentric urban structures in shaping low-carbon lifestyles》，通过中国家庭能源消费数据，揭示了多中心城市建设对家庭碳排放的影响机制及城乡差异，为可持续城市规划提供了重要洞见。<br/><img src='/images/p6.jpg'>"
 collection: portfolio
 ---
 
@@ -60,7 +60,7 @@ $$
   l_{ij}指像素i在县/市区j的光亮度，L_{j} 是县/区j的总灯光亮度总值，Dis\_ CBD_{ij}表示从像素i到 CBD 的距离，CR_{j} 是城市半径
   $$
 
-![p1](C:\Users\flynn\Desktop\p1.jpg)
+<br/><img src='/images/p1.jpg'>
 
 ---
 
@@ -87,7 +87,7 @@ $$
   - **家庭层面**：人均收入、家庭规模、平均年龄、教育水平、住房面积、是否使用集中供暖等。
   - **县/区层面**：人均GDP、县/区面积等。
   
-  ![p2](C:\Users\flynn\Desktop\p2.jpg)
+<br/><img src='/images/p2.jpg'>
 
 #### **2.2 工具变量法（IV）**
 为应对潜在的内生性问题（如城市结构与碳排放之间的双向因果关系），研究采用**工具变量法（2SLS）**：
@@ -103,12 +103,8 @@ $$
   \ln(\text{CO2}_{ij}) = \beta_0 + \beta_1 \widehat{\text{Poly}_{j}} + \text{HouseC}_{ij}^\prime \beta_2 + \text{CountyC}_{j}^\prime \beta_3 + \psi_{ij}
   $$
 
+<br/><img src='/images/p5.jpeg'>
 ---
-
-
-
-### ![p5](C:\Users\flynn\Desktop\p5.jpeg)
-
 
 
 ### **3. 稳健性检验**
@@ -142,7 +138,8 @@ $$
 - **整体效应**：多中心结构显著增加家庭碳排放，农村地区增幅更大（农村系数比城市高25%）。  
 - **机制拆解**：  
   - **交通**：城市居民通勤距离缩短，但出行频率和私家车使用增加，抵消了减排效果；农村居民因公共交通不足更依赖私家车，交通碳排放激增。  
-  - **家庭能源**：供暖（因住房面积扩大和集中供暖普及）和家电使用（农村家电数量与使用时长增加）成为主要排放源。![p3](C:\Users\flynn\Desktop\p3.jpg)
+  - **家庭能源**：供暖（因住房面积扩大和集中供暖普及）和家电使用（农村家电数量与使用时长增加）成为主要排放源。
+<br/><img src='/images/p3.jpg'>
 
 #### **2. 城乡碳排放差距缩小**
 多中心发展通过提升农村生活水平（如家电普及、供暖改善），使农村家庭碳排放增速超过城市，缩小了城乡排放差距。这一发现为“共同富裕”目标下的低碳政策提供了新视角。
