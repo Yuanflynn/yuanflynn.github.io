@@ -1,7 +1,7 @@
 ---
 title: "多中心城市结构如何影响家庭碳排放？来自家庭调查的证据"
 excerpt: "在全球气候变化的背景下，城市空间结构如何塑造低碳生活方式成为关键议题。近期发表于《Cities》期刊的一项研究《The role of polycentric urban structures in shaping low-carbon lifestyles》，通过中国家庭能源消费数据，揭示了多中心城市建设对家庭碳排放的影响机制及城乡差异，为可持续城市规划提供了重要洞见。<br/><img src='/images/p6.jpg'>"
-date: 2025-2-12
+date: 2025-2-11
 collection: portfolio
 ---
 
