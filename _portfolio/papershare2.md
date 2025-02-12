@@ -1,6 +1,7 @@
 ---
 title: "多中心城市结构如何影响家庭碳排放？来自家庭调查的证据"
 excerpt: "在全球气候变化的背景下，城市空间结构如何塑造低碳生活方式成为关键议题。近期发表于《Cities》期刊的一项研究《The role of polycentric urban structures in shaping low-carbon lifestyles》，通过中国家庭能源消费数据，揭示了多中心城市建设对家庭碳排放的影响机制及城乡差异，为可持续城市规划提供了重要洞见。<br/><img src='/images/p6.jpg'>"
+date: 2025-2-12
 collection: portfolio
 ---
 
@@ -87,7 +88,7 @@ $$
   - **家庭层面**：人均收入、家庭规模、平均年龄、教育水平、住房面积、是否使用集中供暖等。
   - **县/区层面**：人均GDP、县/区面积等。
   
-<br/><img src='/images/p2.jpg'>
+<br/><img src='/images/p2.jpg' width="600">
 
 #### **2.2 工具变量法（IV）**
 为应对潜在的内生性问题（如城市结构与碳排放之间的双向因果关系），研究采用**工具变量法（2SLS）**：
