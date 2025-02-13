@@ -38,11 +38,11 @@ Research Project
   
 Awards & Honors
 ======
-*2021, Full Tuition Scholarship, HKD 580,000 
-*2023, Asia-Pacific Economic Cooperation Scholarship 
-*2023, 2024, HKSAR Government Scholarship (Academic Outstanding), HKD 80,000 
-*2023, Dean's List Award 
-*2023, S.H. Ho College Advanced Scholarship, HKD 1500 
-*2024, OAL Exchange Scholarship, HKD 20,500 
-2024, S.H. Ho Foundation Scholarship, HKD 10,000 
-2025, HKSAR Government Scholarship (Reaching Out), HKD 10,000 
+* 2021, Full Tuition Scholarship, HKD 580,000 
+* 2023, Asia-Pacific Economic Cooperation Scholarship 
+* 2023, 2024, HKSAR Government Scholarship (Academic Outstanding), HKD 80,000 
+* 2023, Dean's List Award 
+* 2023, S.H. Ho College Advanced Scholarship, HKD 1500 
+* 2024, OAL Exchange Scholarship, HKD 20,500
+* 2024, S.H. Ho Foundation Scholarship, HKD 10,000
+* 2025, HKSAR Government Scholarship (Reaching Out), HKD 10,000 
