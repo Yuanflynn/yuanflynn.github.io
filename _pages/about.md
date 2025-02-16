@@ -8,7 +8,7 @@ redirect_from:
 
 I am currently an undergraduate student in the Department of Economics, The Chinese University of Hong Kong. In Fall 2023, I interned as a business analysist at TikTok Shop Philippines, and in Spring 2024, I studied as an exchange student at the University of Geneva.
 
-In Spring 2025, I am a research intern at Shenzhen Institue of Advanced Technology, Chinese Academy of Science. My research focuses on global mineral resource trade, urban development, and economic geography.
+In Spring 2025, I am a research intern at Shenzhen Institue of Advanced Technology, Chinese Academy of Science. My research focuses on  urban development and economic geography.
 
 **I am applying for PhD program (Entrance in Fall 2026)**
 
