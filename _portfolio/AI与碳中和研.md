@@ -1,7 +1,7 @@
 ---
 title: "AI与碳中和"
 excerpt: "人工智能（AI）正越来越多地应用于整个社会，这将对气候适应型和低排放发展做出有意义的贡献，然而，高强度的算力需求也带来了极大的环境成本。<br/><img src='/images/AI3.png'>"
-date: 2025-2-7
+date: 2025-2-20
 collection: portfolio
 ---
 
