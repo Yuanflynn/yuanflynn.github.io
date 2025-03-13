@@ -10,7 +10,7 @@ I am currently an undergraduate student in the Department of Economics, The Chin
 
 In Spring 2025, I am a research intern at Shenzhen Institue of Advanced Technology, Chinese Academy of Science. My research focuses on  economic geography and nighttime light remote sensing.
 
-**I am applying for research postgraduate programme (Entrance in Fall 2026)**
+**I am applying for Research Postgraduate Programmes (Entrance in Fall 2026)**
 
 You can find my CV here: [Yifei's Curriculum Vitae](../../files/YUAN YIFEI_CV_ENG.pdf).
 
