@@ -10,17 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Papers"
-    url: /publications/
-    
   - title: "Research"
     url: /talks/    
-    
-  - title: "Readings"
-    url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
 
   - title: "About me"
     url: /aboutme/
