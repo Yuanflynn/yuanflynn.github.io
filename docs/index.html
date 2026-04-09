@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>Quarto Academic, PhD – Quarto Academic</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,14 +39,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3e8f12d1b5c8d04d32925f9f9ead600c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-346337e101949f30c9d2a2307ffdd10b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -135,7 +137,7 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -217,8 +219,12 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
+    <a class="dropdown-item" href="./pub-listing.html">
+ <span class="dropdown-text">Publications Listing</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./publications.html">
- <span class="dropdown-text">List of Publications</span></a>
+ <span class="dropdown-text">Publications</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./posts.html#category=paper">
@@ -341,57 +347,22 @@ window.Quarto = {
   <div class="about-contents"><div id="hero-heading">
 <p>I’m a <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academeic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a>.</p>
 <p>I’m a template that you can fork to build your own website with easy adaptation and deployment.</p>
-<ol type="1">
-<li><strong>Star</strong> this repository to bookmark it for future reference.<br>
-</li>
-<li><strong>Fork</strong> this repository and rename it to <code>YourGitHubUserName.github.io</code>.<br>
-</li>
-<li><strong>Test to publish</strong> your site using <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch">GitHub Pages</a> (make sure <a href="https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png">configuring</a> your GitHub repository to publish from the <code>docs</code> directory, not the <code>root</code> folder).</li>
-<li><strong>Check</strong> if your website works or not. If successful, you should see exactly the same website as this one using your own Github Pages url:
-<ul>
-<li><code>https://YourGitHubUserName.github.io</code> if your repository name is <code>YourGitHubUserName.github.io</code></li>
-<li><code>https://YourGitHubUserName.github.io/RepositoryName</code> for other <code>RepositoryName</code></li>
-<li>Errors:
-<ul>
-<li>If <a href="./files/images/Error1.png">404</a>, it is likely you haven’t set up GitHub Pages</li>
-<li>If it shows the <a href="./files/images/Error2.png">README</a> file, it is likely you’ve published from the <code>root</code> folder, not the <code>docs</code> directory</li>
-</ul></li>
-</ul></li>
-</ol>
-<p>If you achieve this milestone, congratulations! You are now ready to start updating your website:</p>
-<ol type="1">
-<li><strong>Update</strong> the <code>_quarto.yml</code> file to configure your site’s basic settings.<br>
-</li>
-<li><strong>Add or edit content</strong> in the following files and folders:
-<ul>
-<li><code>/posts/</code> – posts about publications, news, events<br>
-</li>
-<li><code>teaching.qmd</code> – teaching information<br>
-</li>
-<li><code>projects.yml</code> – research or other projects<br>
-</li>
-<li><code>people.qmd</code> and <code>/people/</code> – team or collaborators<br>
-</li>
-<li><code>/files/</code> - profiles, images, pdfs, and includes</li>
-</ul></li>
-<li><a href="https://quarto.org/docs/websites/#website-preview"><strong>Render and preview</strong></a> your site locally.<br>
-</li>
-<li><strong><code>Commit</code> to publish</strong> your updates.</li>
-<li><strong>Refine and polish</strong> your content and design as needed.<br>
-</li>
-<li>✅ Enjoy your new website!</li>
-<li><strong>Link</strong> your website on your official pages to let Google and AI bots include in their search results.</li>
-</ol>
+<p>I can automatically generate a neat publication list from an Excel file and enabling categories and filters.</p>
+<p>Check <a href="https://drganghe.github.io/quarto-academic-site-examples.html">Quarto Academic Website Examples and Tips</a> and <a href="https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md">README.md</a> for more detailed instructions.</p>
 <section id="experience" class="level2">
 <h2 data-anchor-id="experience">Experience</h2>
 <ul>
 <li>Researcher, Univerisity</li>
+<li>Consultant, Company</li>
+<li>Intern, Institute</li>
 </ul>
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
 <ul>
 <li>PhD, Univerisity</li>
+<li>Master, Univerisity</li>
+<li>Bachelor, Univerisity</li>
 </ul>
 </section>
 </div></div>

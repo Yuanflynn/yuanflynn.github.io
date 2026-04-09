@@ -29,6 +29,37 @@ If you achieve this milestone, congratulations! You are now ready to start updat
 1. ✅ Enjoy your new website!
 1. **Link** your website on your official pages to let Google and AI bots include in their search results.
 
+
+## Automatically Generate a Neat Publication List
+
+1. **Prepare your publication source file**:
+   - Recommended: maintain `publications.xlsx` (already supported by this template, you can convert a bib file to Excel using online tools).
+2. **Fill `publications.xlsx` using the expected column names**:
+   - `Section`, `Authors`, `Year`, `Date`, `Title`, `Paper Link`, `Journal`, `Volume`, `Issue`, `Pages`, `DOI`
+   - Optional links/metadata: `PDF`, `Preprint`, `ShareIt`, `Supplemental Information`, `GitHub`, `Code`, `Data`
+   - Optional flags/info: `Highly Cited`, `Hot Paper`, `Awards`, `Media Coverage`, `Invited Presentation`, `Categories`
+3. **Install Python dependency** (one-time):
+   - `pip install openpyxl`
+   - Optional validation support: `pip install pyyaml`
+4. **Convert Excel to YAML**:
+   - `python xlsx_to_yml.py`
+   - Or with custom files: `python xlsx_to_yml.py input.xlsx output.yml`
+   - Force conversion: `python xlsx_to_yml.py --force`
+5. **Render your site**:
+   - `quarto render`
+   - The project is already configured with `pre-render: python xlsx_to_yml.py` in `_quarto.yml`, so conversion will run automatically before rendering if there is any update in `publications.xlsx`.
+6. **Check publication page output**:
+   - Main auto-generated page: `pub-listing.qmd`
+   - Listing template: `pub-listing.ejs`
+   - Styling: `pub-listing.css`
+   - Filter: The `remove-stray-divfence.lua` filter is added to remove excessive ::: in html after rendering.
+7. **Categorize records correctly**:
+   - Use `Section` as either `Selected Work` or `Peer-reviewed Journal Paper` to place entries into corresponding sections. You can add other Section as needed.
+   - Use `Categories` with separators like `,`, `;`, or `|` for listing filters.
+8. **Publish changes**:
+   - Enjoy your neat automatically generated publication list. You can customize style and template if you need to add new links and flags.
+
+
 ## 🛠 Requirements
 
 - Install [Quarto](https://quarto.org/docs/get-started/)

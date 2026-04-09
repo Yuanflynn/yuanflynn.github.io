@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
+    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
+    
 # Meta
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 author-meta: "Dr. Gang He"
@@ -27,8 +29,10 @@ website:
             href: contact.qmd             
       - text: Research
         menu:
-          - text: List of Publications
-            href: publications.qmd
+          - text: Publications Listing  # Automatically generated from publications.xlsx
+            href: pub-listing.qmd
+          - text: Publications  # Manually curated list of publications
+            href: publications.qmd            
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Grants
