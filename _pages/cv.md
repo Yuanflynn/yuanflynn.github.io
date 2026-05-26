@@ -22,6 +22,10 @@ Work experience
 * 2023.9 - 2023.12: Business Analysist - ByteDance (TikTok Department)
 * 2023.5 - 2023.8: Global Market Intern - Easy Transfer
 
+Publications
+======
+* __Yifei Yuan__, Liqun Sun, Ji Chen. Solar poverty alleviation program raises local incomes and lowers air pollution in rural China. __Communications Sustainability__ (2026). DOI: 10.1038/s44458-026-00091-1
+
 Skills
 ======
 * Stata
