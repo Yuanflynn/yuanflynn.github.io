@@ -6,19 +6,12 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Yifei Yuan**
 
-School
+Department of Geography and Resource Management
 
-College
+The Chinese University of Hong Kong
 
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
-
+E-mail: flynnyuan\@link.cuhk.edu.hk
 
 </center>

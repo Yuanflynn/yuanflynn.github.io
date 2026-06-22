@@ -1,5 +1,5 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Yifei Yuan"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/images/placeholder4.JPG"
 page-navigation: false
@@ -12,25 +12,13 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: 1155173921@link.cuhk.edu.hk    
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org
       target: _blank
@@ -67,31 +55,45 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I am a Master student in Geography at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) supervised by [Prof. Harry Lee](https://www.grm.cuhk.edu.hk/en/profile/hflee/).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+My research interests center on the intersection of environmental economics, sustainability assessment, and geospatial technology. My current research focuses on the following themes:
 
-I can automatically generate a neat publication list from an Excel file and enabling categories and filters.
+- Remote sensing applications in social computing
+- Global-scale assessment of next-generation photovoltaic development
+- Life cycle assessment modeling for sustainability analysis
 
-Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
-
-## Experience
-
-- Researcher, Univerisity
-- Consultant, Company
-- Intern, Institute
 
 ## Education
 
-- PhD, Univerisity
-- Master, Univerisity
-- Bachelor, Univerisity
+- MPhil in Geography and Resource Management, CUHK
+- BSSc in Economics (First Class Honour), CUHK
+- Semaster exchange, U of Geneva
+
+## Experience
+
+- Research Assistant, SIAT, Chinese Academy of Sciences
+- Research Assistant, CUHK Business School
+- Business Analyst, Bytedance
+
+## Awards & Honours
+
+- Full Tuition Scholarship & Honours
+- HKSAR Government Scholarship 2022/23
+- HKSAR Government Scholarship 2023/24
+- Yasumoto International Exchange Scholarship
+- S.H. Ho Foundation Scholarship
+- S.H. Ho College Advanced Scholarship
+- Dean's List Award
+- Asia-Pacific Economic Cooperation Scholarship
+- S.H. Ho College Matriculation Scholarships for Academic Excellence
+
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
+## Recent News
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
 :::{#recent-posts}
