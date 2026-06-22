@@ -5,13 +5,13 @@ project:
     - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Yifei's Homepage"
+author-meta: "Yifei Yuan"
 
 website:
   title: "Yifei Yuan"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Yifei's Homepage"
  
   navbar:
     background: light  # You can change the background color here
@@ -33,7 +33,7 @@ website:
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/Yuanflynn
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
@@ -45,11 +45,11 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Yifei Yuan](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Yifei Yuan](https://github.com/Yuanflynn) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/Yuanflynn
         target: _blank
  
   
@@ -69,7 +69,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://github.com/Yuanflynn"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID

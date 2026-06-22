@@ -1,7 +1,7 @@
 ---
 title: "Yifei Yuan"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+description-meta: "Academic Website Adapted from Quarto Academic Website Template"
+image: "files/images/profilephoto.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -55,7 +55,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I am a Master student in Geography at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) supervised by [Prof. Harry Lee](https://www.grm.cuhk.edu.hk/en/profile/hflee/).
+I am a Master student in Geography at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by [Prof. Harry Lee](https://www.grm.cuhk.edu.hk/en/profile/hflee/).
 
 My research interests center on the intersection of environmental economics, sustainability assessment, and geospatial technology. My current research focuses on the following themes:
 
@@ -66,9 +66,9 @@ My research interests center on the intersection of environmental economics, sus
 
 ## Education
 
-- MPhil in Geography and Resource Management, CUHK
-- BSSc in Economics (First Class Honour), CUHK
-- Semaster exchange, U of Geneva
+- MPhil in Geography and Resource Management, *CUHK*
+- BSSc in Economics (First Class Honour), *CUHK*
+- Semaster exchange, *U of Geneva*
 
 ## Experience
 
@@ -94,9 +94,11 @@ My research interests center on the intersection of environmental economics, sus
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent News
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-:::{#recent-posts}
-:::
+-   \[06/2026\] My paper "Solar poverty alleviation program raises local incomes and lowers air pollution in rural China." is selected as **Featured Article** by *Communications Sustainability* \[[Link](https://www.nature.com/articles/s44458-026-00091-1)\] 🎉🎉🎉
+
+-   \[05/2026\] My undergraduate thesis is accepted by *Communications Sustainability*: "Solar poverty alleviation program raises local incomes and lowers air pollution in rural China." \[[Link](https://www.nature.com/articles/s44458-026-00091-1)\]
+
+-   \[05/2026\] I have accepted the MPhil offer from CUHK GRMD and will work with Prof. Harry Lee in the following 2 years. 
 
 <p align="right">[All Posts »](/posts.qmd)</p>
