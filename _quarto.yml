@@ -22,9 +22,9 @@ website:
       - text: Publications   # Comment the Group part out to remove the Group page
         href: pub-listing.qmd
       - text: Research   # Comment the Group part out to remove the Group page
-        href: people.qmd
+        href: research.qmd
       - text: Resources   # Comment the Group part out to remove the Group page
-        href: people.qmd
+        href: resources.qmd
       - text: Contact   # Comment the Group part out to remove the Group page
         href: contact.qmd 
 

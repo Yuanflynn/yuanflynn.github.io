@@ -26,5 +26,21 @@
   {
     "listing": "/pub-listing.html",
     "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
+  },
+  {
+    "listing": "/resoureces.html",
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
   }
 ]
