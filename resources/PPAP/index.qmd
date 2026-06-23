@@ -1,16 +1,17 @@
 ---
-title: "The Economic and Ecological Returns of Phovolotaics Allivation Program"
-description: "About Event item."
+title: "Stata Code to Conduct and Test DID Model"
+description: "This is a well developed code in dofile format to conduct DID model, and exculute roubustness test including event study, placebo test, and porpensity socre matching"
 author: "Yifei Yuan"
-date: "2025-09-03"
+date: "2026-05-27"
 categories: [research, paper]
 image: "PPAP.JPG"
 #css: /custom.css
 #draft: true
 ---
 
-[![](PPAP.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+[![](PPAP.JPG){width="90%"}](https://www.dropbox.com/scl/fo/x6i8eg1puo0ou5rvitovk/AMmo0IrETWFMyTxj2L7dpcA?rlkey=mudufdom0w58s7s72bp65ze21&dl=0)
 
+[Click to download](https://www.dropbox.com/scl/fo/x6i8eg1puo0ou5rvitovk/AMmo0IrETWFMyTxj2L7dpcA?rlkey=mudufdom0w58s7s72bp65ze21&dl=0)
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

@@ -9,7 +9,7 @@ image: "figure1.JPG"
 #draft: true
 ---
 
-[![](figure1.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+![](figure1.JPG){width="90%"}
 
 <!--Include social share buttons-->
 

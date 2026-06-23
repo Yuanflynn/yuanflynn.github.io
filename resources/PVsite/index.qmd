@@ -1,0 +1,17 @@
+---
+title: "Remote Sensing Dataset of Global PV Station"
+description: "This geospatial dataset represents the most comprehensive global PV mapping product, offering the global spatial coverage, the highest resolution, and the most up-to-date information developed by our team at SIAT, CAS"
+author: "Xiaopeng Zeng"
+date: "2025-12-03"
+categories: [dataset]
+image: "figure1.JPG"
+#css: /custom.css
+#draft: true
+---
+
+[![](figure1.JPG){width="90%"}](https://github.com/SUNNYTREE-LAB/Fusion_PV_Mapping)
+
+[Click to download](https://github.com/SUNNYTREE-LAB/Fusion_PV_Mapping)
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

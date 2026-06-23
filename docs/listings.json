@@ -46,8 +46,8 @@
   {
     "listing": "/resources.html",
     "items": [
-      "/resources/Perovskite/index.html",
       "/resources/PPAP/index.html",
+      "/resources/PVsite/index.html",
       "/resources/LCA/index.html"
     ]
   }

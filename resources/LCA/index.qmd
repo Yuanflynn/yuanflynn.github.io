@@ -9,7 +9,9 @@ image: "figure1.png"
 #draft: true
 ---
 
-[![](figure1.png){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+[![](figure1.png){width="90%"}](https://www.dropbox.com/scl/fo/jxvcygyk1dvho63xftui2/AMR6RoDEMaS8pYi-pT9phHE?rlkey=mepidb5bdcmdfnfmzay8rqgkn&dl=0)
+
+[Click to download](https://www.dropbox.com/scl/fo/jxvcygyk1dvho63xftui2/AMR6RoDEMaS8pYi-pT9phHE?rlkey=mepidb5bdcmdfnfmzay8rqgkn&dl=0)
 
 <!--Include social share buttons-->
 
