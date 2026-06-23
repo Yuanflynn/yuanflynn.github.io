@@ -1,0 +1,16 @@
+---
+title: "Next-Generation Application of Perovskite Photovoltaics"
+description: "About Event item."
+author: "Yifei Yuan"
+date: "2026-06-25"
+categories: [research, paper]
+image: "figure1.JPG"
+#css: /custom.css
+#draft: true
+---
+
+[![](figure1.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

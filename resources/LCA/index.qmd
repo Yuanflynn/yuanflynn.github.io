@@ -1,0 +1,16 @@
+---
+title: "Tutorial for LCA Modeling on OpenLCA"
+description: "I host a tutorial about LCA modeling at SIAT. You can download the recording here"
+author: "Yifei Yuan"
+date: "2025-03-10"
+categories: [turotial]
+image: "figure1.png"
+#css: /custom.css
+#draft: true
+---
+
+[![](figure1.png){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

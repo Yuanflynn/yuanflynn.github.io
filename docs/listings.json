@@ -30,9 +30,9 @@
   {
     "listing": "/research.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/Perovskite/index.html",
+      "/posts/PPAP/index.html",
+      "/posts/LCA/index.html"
     ]
   },
   {
@@ -46,9 +46,9 @@
   {
     "listing": "/resources.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/resources/Perovskite/index.html",
+      "/resources/PPAP/index.html",
+      "/resources/LCA/index.html"
     ]
   }
 ]

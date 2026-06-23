@@ -12,13 +12,13 @@ listing:   # Comment the listing section and delete corresponding lines in the i
   - id: recent-posts
     contents: 
       - posts
-      - posts/post-links.yml
+      #- posts/post-links.yml
     exclude:
       title: ""
     type: grid
-    max-items: 3
+    max-items: 10
 #    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
+    page-size: 10 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
     max-description-length: 75
     sort: 
