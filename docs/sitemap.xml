@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Yuanflynn/index.html</loc>
-    <lastmod>2026-06-23T03:38:06.431Z</lastmod>
+    <lastmod>2026-06-23T09:27:47.646Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Yuanflynn/pub-listing.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://github.com/Yuanflynn/research.html</loc>
-    <lastmod>2026-06-23T08:23:23.356Z</lastmod>
+    <lastmod>2026-06-23T09:45:44.671Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Yuanflynn/resources.html</loc>
@@ -31,5 +31,21 @@
   <url>
     <loc>https://github.com/Yuanflynn/resources/PVsite/index.html</loc>
     <lastmod>2026-06-23T09:16:43.583Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Yuanflynn/publications.html</loc>
+    <lastmod>2026-06-22T07:22:38.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Yuanflynn/research/LCA/index.html</loc>
+    <lastmod>2026-06-23T08:51:31.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Yuanflynn/research/Perovskite/index.html</loc>
+    <lastmod>2026-06-23T08:52:19.882Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Yuanflynn/research/PPAP/index.html</loc>
+    <lastmod>2026-06-23T08:53:37.928Z</lastmod>
   </url>
 </urlset>

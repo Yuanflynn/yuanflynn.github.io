@@ -35,18 +35,18 @@ website:
       - icon: github
         href: https://github.com/Yuanflynn
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+      #- text: "{{< fa brands bluesky >}}"
+      #  href: https://bsky.app
+      #  target: _blank      
+      #- icon: rss
+      #  href: posts.xml
+      #  target: _blank
   
   page-navigation: true
   
   page-footer: 
     left: "[Yifei Yuan](https://github.com/Yuanflynn) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
+    #center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
         href: https://github.com/Yuanflynn

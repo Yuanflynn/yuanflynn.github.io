@@ -20,7 +20,7 @@ about:
       href: https://hk.linkedin.com/in/yifei-yuan-7a6257229
       target: _blank
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/my-orcid?orcid=0009-0007-3634-826X
+      href: https://orcid.org/0009-0007-3634-826X
       target: _blank
 #    - text: "{{< ai clarivate >}} Web of Science"
 #      href: https://www.webofscience.com  
@@ -50,7 +50,7 @@ My research interests center on the intersection of environmental economics, sus
 
 -   MPhil in Geography and Resource Management, *CUHK*
 -   BSSc in Economics (First Class Honour), *CUHK*
--   Semaster exchange, *U of Geneva*
+-   Semester exchange, *U of Geneva*
 
 ## Experience
 

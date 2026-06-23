@@ -11,7 +11,7 @@ page-layout: full
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
     contents: 
-      - posts
+      - research
       #- posts/post-links.yml
     exclude:
       title: ""

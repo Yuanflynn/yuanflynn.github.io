@@ -1,0 +1,16 @@
+---
+title: "The Economic and Ecological Returns of Phovolotaics Allivation Program"
+description: "About Event item."
+author: "Yifei Yuan"
+date: "2025-09-03"
+categories: [research, paper]
+image: "PPAP.JPG"
+#css: /custom.css
+#draft: true
+---
+
+[![](PPAP.JPG){width="90%"}](https://www.nature.com/articles/s44458-026-00091-1)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
