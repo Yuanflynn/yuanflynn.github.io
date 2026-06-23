@@ -1,50 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2025-06-06T22:28:53.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2025-03-11T20:28:51.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2025-02-10T13:31:20.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2025-06-06T22:34:03.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2025-02-08T20:29:49.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2025-02-10T15:14:33.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2026-06-22T08:15:01.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2025-02-10T14:44:43.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2026-06-22T08:10:22.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2026-02-03T19:55:18.149Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/pub-listing.html</loc>
-    <lastmod>2026-04-09T12:35:28.091Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/Yuanflynn/index.html</loc>
     <lastmod>2026-06-23T03:38:06.431Z</lastmod>
   </url>
@@ -53,16 +9,12 @@
     <lastmod>2026-06-22T12:15:58.205Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Yuanflynn/people.html</loc>
-    <lastmod>2026-06-22T07:22:38.665Z</lastmod>
+    <loc>https://github.com/Yuanflynn/contact.html</loc>
+    <lastmod>2026-06-23T03:31:49.380Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Yuanflynn/research.html</loc>
     <lastmod>2026-06-23T04:03:59.327Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Yuanflynn/resoureces.html</loc>
-    <lastmod>2026-06-23T03:31:33.056Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Yuanflynn/resources.html</loc>
