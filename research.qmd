@@ -1,6 +1,6 @@
 ---
-title: "Yifei Yuan"
-description-meta: "Academic Website Adapted from Quarto Academic Website Template"
+title: "Research"
+description-meta: "Information, PDFs, and social metrics of papers"
 image: "files/images/profilephoto.JPG"
 page-navigation: false
 toc: false
