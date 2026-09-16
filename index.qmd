@@ -1,7 +1,7 @@
 ---
 title: "Yifei Yuan"
 description-meta: "Academic Website Adapted from Quarto Academic Website Template"
-image: "files/images/profilephoto.JPG"
+image: "files/images/profilephoto.png"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -38,7 +38,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a Master student in Geography at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by [Prof. Harry Lee](https://www.grm.cuhk.edu.hk/en/profile/hflee/).
+I am an incoming PhD student in Water and Environmental Engineering at [The University of Hong Kong](https://www.hku.hk/sc), supervised by [Prof. Ji CHEN](https://www.civil.hku.hk/pp-chenj.html).
 
 My research interests center on the intersection of environmental economics, sustainability assessment, and geospatial technology. My current research focuses on the following themes:
 
@@ -48,7 +48,7 @@ My research interests center on the intersection of environmental economics, sus
 
 ## Education
 
--   MPhil in Geography and Resource Management, *CUHK*
+-   MPhil in Geography and Resource Management (Withdraw), *CUHK*
 -   BSSc in Economics (First Class Honours), *CUHK*
 -   Semester exchange, *U of Geneva*
 
@@ -63,10 +63,11 @@ My research interests center on the intersection of environmental economics, sus
 -   Full Tuition Scholarship & Honours
 -   HKSAR Government Scholarship 2022/23
 -   HKSAR Government Scholarship 2023/24
+-   HKSAR Government Scholarship 2025/26
 -   Yasumoto International Exchange Scholarship
 -   S.H. Ho Foundation Scholarship
 -   S.H. Ho College Advanced Scholarship
--   Dean's List Award
+-   Dean's List Award 2022-23, 2023-24, 2025-26
 -   Asia-Pacific Economic Cooperation Scholarship
 -   S.H. Ho College Matriculation Scholarships for Academic Excellence
 :::
