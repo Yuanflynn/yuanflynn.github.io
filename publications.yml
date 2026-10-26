@@ -4,7 +4,7 @@
   date: 2026-5-25
   title: Solar poverty alleviation program raises local incomes and lowers air pollution in rural China
   path: "https://flynnyuan.com/research/PPAP/index.html"
-  journal: Communications Sustainbility
+  journal: Communications Sustainability
   volume: 1
   pages: 87
   doi: 10.1038/s44458-026-00091-1
@@ -27,7 +27,7 @@
   date: 2026-06-28
   title: Next-Generation Application of Perovskite Photovoltaics Unlock Global Solar Potential
   path: "https://flynnyuan.com/research/Perovskite/index.html"
-  #journal: Nature Communications
+  journal: under review at **Nature Sustainability**
   #volume: 11
   #issue: 1
   #pages: 2486
@@ -46,7 +46,7 @@
   date: 2026-06-25
   title: Photovoltaic as an Effective Solution to Energy Poverty in Developing Countries
   path: "https://flynnyuan.com/pub-listing.html"
-  #journal: Nature Communications
+  journal: under review at **The Innovations**
   #volume: 11
   #issue: 1
   #pages: 2486
@@ -65,7 +65,35 @@
   date: 2026-07-23
   title: Technology-resolved mapping reveals lifecycle outcomes of global utility-scale photovoltaics
   path: "https://flynnyuan.com/pub-listing.html"
-  #journal: Nature Communications
+  journal: under review at **Nature Sustainability**
+  #volume: 11
+  #issue: 1
+  #pages: 2486
+  #doi: 10.1038/s41467-020-16184-x
+  pdf: "https://www.dropbox.com/scl/fo/d0wmp8x2h859zrq2042kx/AOYjnEGOst24zMN9PmL_az0?rlkey=rsit5st10zukclln54g0akc9c&dl=0"
+  supplemental: "https://www.dropbox.com/scl/fo/d0wmp8x2h859zrq2042kx/AOYjnEGOst24zMN9PmL_az0?rlkey=rsit5st10zukclln54g0akc9c&dl=0"
+  
+- section: Selected Work
+  authors: "Zhao, Y., Zhu, Z., Jia, M., Liu, Y., **Yuan, Y.**, Sun, L.\\*"
+  year: 2026
+  date: 2026-09-15
+  title: Migration of global mangrove greenness centroids and regional contributions (In Chinese)
+  path: "https://flynnyuan.com/pub-listing.html"
+  journal: under revision at **National Remote Sensing Bulletin《遥感学报》**
+  #volume: 11
+  #issue: 1
+  #pages: 2486
+  #doi: 10.1038/s41467-020-16184-x
+  pdf: "https://www.dropbox.com/scl/fo/d0wmp8x2h859zrq2042kx/AOYjnEGOst24zMN9PmL_az0?rlkey=rsit5st10zukclln54g0akc9c&dl=0"
+  supplemental: "https://www.dropbox.com/scl/fo/d0wmp8x2h859zrq2042kx/AOYjnEGOst24zMN9PmL_az0?rlkey=rsit5st10zukclln54g0akc9c&dl=0"
+  
+- section: Selected Work
+  authors: "**Yuan, Y.**, Zhang, Y., Zhao, Y., Sun, L.\\*"
+  year: 2026
+  date: 2026-10-05
+  title: Vegetation responses to photovoltaic power stations and their methodological interpretation across land systems
+  path: "https://flynnyuan.com/pub-listing.html"
+  journal: submitted
   #volume: 11
   #issue: 1
   #pages: 2486
